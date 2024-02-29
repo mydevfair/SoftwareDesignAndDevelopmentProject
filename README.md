@@ -1,4 +1,4 @@
-This is my first year Software Design and Development Project
+This is my first year Software Design and Development Project.
 
 We were given the following problem and tasks to complete for the program.
 
